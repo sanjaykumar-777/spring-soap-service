@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://sanjaykumar777.com">
+    <id>123</id>
+    <!--Number field alone validation using XSD
+    xsd -Xml schema validation
+    -->
+</GetCourseDetailsRequest>
