@@ -5,6 +5,6 @@
     <BooksDetails>
         <id>1234</id>
         <name>learn aws</name>
-        <description>a complete guide to learn aws</description>
+        <description>A beginner guide to learn aws from scratch</description>
     </BooksDetails>
 </GetBooksResponse>
